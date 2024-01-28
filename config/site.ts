@@ -7,6 +7,5 @@ export const siteConfig = {
   mainNav: [],
   links: {
     twitter: "https://twitter.com/CryptosparKnet",
-    github: "https://github.com/batuhanbilginn/ai-blog-post-generator",
   },
 }
