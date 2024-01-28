@@ -48,10 +48,10 @@ const Step1 = () => {
         {/* Content Container */}
         <div className="flex flex-col flex-1 gap-3">
           <h1 className="text-2xl font-extrabold leading-tight tracking-tighter sm:text-3xl md:text-5xl lg:text-6xl">
-            Create Blog Post with AI
+            Create Blog Post with InaZoMa AI
           </h1>
           <p className="max-w-[700px] text-lg text-muted-foreground sm:text-xl">
-            Create your blog post with AI. Just write a few sentences and let AI
+            Just write a few sentences and let AI
             first create your outline and then you can generate your blog post.
           </p>
         </div>
