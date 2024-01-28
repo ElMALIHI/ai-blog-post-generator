@@ -1,12 +1,12 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "ContentAI",
+  name: "AI_CRYPTOSPARK",
   description:
     "Beautifully designed components built with Radix UI and Tailwind CSS.",
   mainNav: [],
   links: {
-    twitter: "https://twitter.com/makrdev",
-    github: "https://github.com/batuhanbilginn/ai-blog-post-generator",
+    twitter: "https://twitter.com/CryptosparKnet",
+    
   },
 }
